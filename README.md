@@ -4,20 +4,20 @@
 John Ojerio Belda
 
 
-I have decided that I want to do a grid style page with white spacing on the either side to make the design clean, sleek and simple.
+In order to design the layout and structure, I made a file for HTML and CSS.
 
-The colors I have picked are :
+I needed to fetch the data from PokeAPI through Javascript so that I can ensure that the information is accurate.
 
-BG: B8F54E
-White 
-Red for the selection of Captured Pokemon: F26666
+Resources used:
+PokeAPI
+Github Repository
 
+Challenges faced: 
 
+The challenges I have faced in no particular order are: 
 
-Background: 
-I have chosen a light green for the background because in order to see the captured Pokemon while still seeing their sprites, it needed to be a light color. 
-White:
-For the border/background of the Pokedex title, I decided to use white to contrast the green background.
-Red:
-For the selection of the captured pokemon, I have chosen red because this will prompt the user that the captured pokemon is captured.
+1. Waiting for the API to work
+2. Making sure that everything is going to show up as per my mockup
+3. Making it accessible through Web, Phone, and Tablet (Interactive)
 
+I overcame these challenges by making sure that I looked back upon the previous courses of the program and through the IMD Coding website. It was very hard for me to make the javascript work as there are broken codes and I had to keep validating it, but it works out at the end.
