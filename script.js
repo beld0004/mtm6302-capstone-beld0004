@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
       return data.results;
     }
   
-    // Display pokemon in the grid
+    // Display pokemon in the grid.
     async function displayPokemon() {
       const pokemonList = await fetchPokemon();
       pokemonList.forEach(pokemon => {
